@@ -26,5 +26,5 @@
 
 ## Авторы
 
-Идея и реализация: https://t.me/wxwqqw
+Идея и реализация: https://t.me/wxwqqw  
 Реализация и помощь: https://t.me/Egxr41k
