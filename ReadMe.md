@@ -21,7 +21,8 @@
 ## Стек
 
 1. Python
-2. 
+2. SQLAlchemy
+3. FastAPI
 
 ## Авторы
 
