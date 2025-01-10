@@ -3,7 +3,7 @@
 * [Общая информация](#Общая-информация)
 * [Стек](#Стек)
 * [Запуск и деплой](docs/deploy.md)
-* [План](docs/TODO.md)
+* [План](docs/plan.xlsx)
 * [Список функционала](docs/functional.md)
 * [Устройство функционала](docs/aboutCode.md)
 * [Тесты](docs/tests.md)
