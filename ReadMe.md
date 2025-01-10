@@ -6,7 +6,7 @@
 * [План](docs/plan.xlsx)
 * [Список функционала](docs/functional.md)
 * [Устройство функционала](docs/aboutCode.md)
-* [Правила для авторов](docs/rules.md)
+* [Правила для разработчиков](docs/rules.md)
 * [Тесты](docs/tests.md)
 * [Авторы](#Авторы)
 
