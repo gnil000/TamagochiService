@@ -23,6 +23,7 @@
 1. Python
 2. SQLAlchemy
 3. FastAPI
+4. PostgreSQL
 
 ## Авторы
 
