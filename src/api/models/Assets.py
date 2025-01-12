@@ -10,5 +10,7 @@ class Assets(Base):
     path = Column(String, name="Path")
     price = Column(DECIMAL, name="Price")
     rank = Column(SmallInteger, ForeignKey(Rarity.rank), name="Rank")
+    type = Column(String)
+    title = Column(String)
 
     rarity = relationship('Rarity', foreign_keys='Rarity.rank')

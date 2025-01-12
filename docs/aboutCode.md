@@ -43,21 +43,13 @@ pip install psycopg2-binary
 
 ### Структура кода
 
-Структура кода взята из репозитория `https://github.com/DJWOMS/fastapi_base`. 
+Структура кода взята из репозитория: https://github.com/DJWOMS/fastapi_base  
+
+Ссылка на диаграмму для проекта API: https://miro.com/welcomeonboard/WW5PWW94aXlza1MweHU2R3lrN3YzUnZmM2ZDUHl1MG9zYmY1OHA5WmlJSGZVbnJqTWFsNTZ1enpwSkc2c3VETUl3ck94cUxCSWJFT3pjcUdXUCtMYk83K3JVL24ycUhWbXEvbE9CZHNOcU9mby9PdUJkVVhIeWRDU2IvUmpKTW4hZQ==?share_link_id=376424200771
 
 ## Telegram Bot
 
 ### Скачанные необходимые зависимости
-
-FastAPI - фреймворк для веб-приложений:
-```
-pip install fastapi
-```
-
-Univer - ASGI веб-сервер:
-```
-pip install "uvicorn[standard]"
-```
 
 ### Структура кода
 
@@ -65,15 +57,6 @@ pip install "uvicorn[standard]"
 
 ### Скачанные необходимые зависимости
 
-FastAPI - фреймворк для веб-приложений:
-```
-pip install fastapi
-```
-
-Univer - ASGI веб-сервер:
-```
-pip install "uvicorn[standard]"
-```
 
 ### Структура кода
 
@@ -81,14 +64,5 @@ pip install "uvicorn[standard]"
 
 ### Скачанные необходимые зависимости
 
-FastAPI - фреймворк для веб-приложений:
-```
-pip install fastapi
-```
-
-Univer - ASGI веб-сервер:
-```
-pip install "uvicorn[standard]"
-```
 
 ### Структура кода
